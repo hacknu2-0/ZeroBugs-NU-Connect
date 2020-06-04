@@ -1,4 +1,6 @@
 # ZeroBugs-NU-Connect
+Members: Soman Yadav, Diksha Dutt, Kushagra Mishra, Prabsaran Singh
+
 
 To open Food Zone :
 Install XAMPP 
