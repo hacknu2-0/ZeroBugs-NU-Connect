@@ -21,7 +21,7 @@ Now Connecting Database
 
 6th Step: Create a database naming “foodorder” and then click on the import tab
 
-7th Step: Click on browse file and select “foodorder.sql” file which is inside the “Online-Food-Order” folder
+7th Step: Click on browse file and select “foodorder.sql” file which is inside the “FoodZone” folder
 
 8th Step: Click on go.
 
