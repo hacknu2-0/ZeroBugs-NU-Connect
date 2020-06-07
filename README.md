@@ -1,5 +1,6 @@
 # ZeroBugs-NU-Connect
 Members: Soman Yadav, Diksha Dutt, Kushagra Mishra, Prabsaran Singh
+
 ZeroBugs have provided an all inclusive solutin for the problems faced by NU freshers. This site contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NUand lastly faq's which contain answers to soe questions that a freshman won't know. This project was built for HackNU2.0
 
 To open Food Zone :
