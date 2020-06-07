@@ -34,4 +34,5 @@ For the admin section go to “http://localhost/FoodZone/managerlogin.php”
 
 
 Main site is home.html
+After all this, go to "http://nufoodzone.epizy.com/home.html" to view the site.
 
